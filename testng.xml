@@ -9,8 +9,8 @@
 
     <test verbose="2" preserve-order="true" name="PetstoreAPiTests">
         <classes>
-            <class name="api.test.DataDrivenTest"/>
-<!--            <class name="api.test.UserTests">-->
+<!--            <class name="api.test.DataDrivenTest"/>-->
+            <class name="api.test.UserTests"/>
 <!--                <methods>-->
 <!--                </methods>-->
 <!--            </class>-->
