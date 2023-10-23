@@ -6,7 +6,7 @@ public interface Routes {
 
      //USER MODULE
     String Post_user_url_withArray="/user/createWithArray";
-    String Post_user_url=base_url+"/user";
+    String Post_user_url="/user";
     String Get_user_url=base_url+"/user/{username}";
     String Update_user_url=base_url+"/user/{username}";
     String Delete_user_url=base_url+"/user/{username}";

@@ -16,7 +16,7 @@ import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInC
 
 public class UserTests {
 
-    Faker faker;
+    Faker faker; 
     User userPayLoad;
     SoftAssert softAssert = new SoftAssert();
 
